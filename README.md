@@ -1,7 +1,7 @@
 # Desafío para Software Engineers
 
-Nombre postulante: [TU NOMBRE]
-Link a la app en producción: [LINK DEL DEPLOY]
+Nombre postulante: LUCIANO GABRIEL OJEDA
+Link a la app en producción: https://dev-challenge-template-master.vercel.app/
 
 ## Instrucciones
 
