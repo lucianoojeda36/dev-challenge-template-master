@@ -32,7 +32,7 @@ const GET_COUNTRY = gql`
 `;
 
 const CountrySearchByContinent = () => {
-  const [isGroupByContinent, setIsGroupByContinent] = useState(false);
+  const [isGroupByContinent, setIsGroupByContinent] = useState(true);
   const [isGroupByLanguage, setIsGroupByLanguage] = useState(false);
   const [countryName, setCountryName] = useState('');
 
